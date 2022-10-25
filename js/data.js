@@ -1,0 +1,60 @@
+let dealItems = [
+  {
+    id:101,
+    name:"iPhone 13 Pro",
+    price:"56999",
+    off: "15%",
+    img:"images/BestSeller/iPhone13.jpg",
+    deal:"11% off",
+  },
+  {
+    id:102,
+    name:"Samsung Galaxy M33 5G",
+    price:"12,999",
+    off: "9000",
+    img:"images/BestSeller/m33.jpg",
+    deal:"Upto 9,500 off",
+  },
+  {
+    id:103,
+    name:"Mi NoteBook Pro",
+    price:"54999",
+    off: "15%",
+    img:"images/BestSeller/miNote.jpg",
+    deal:"10% off",
+  },
+  {
+    id:104,
+    name:"iQOO Neo 6 5G",
+    price:"25999",
+    off: "15%",
+    img:"images/BestSeller/neo6.jpg",
+    deal:"20% off",
+  },
+  {
+    id:105,
+    name:"OnePlus 10 Pro 5G",
+    price:"60,499",
+    off: "10%",
+    img:"images/BestSeller/op10.jpg",
+    deal:"10% off",
+  },
+  {
+    id:106,
+    name:"iPhone 13 Pro",
+    price:"56999",
+    off: "15%",
+    img:"images/BestSeller/redmia1.jpg",
+    deal:"",
+  },
+  {
+    id:107,
+    name:"Samsung S20 FE 5G",
+    price:"26990",
+    off: "50% off",
+    img:"images/BestSeller/s20fe.jpg",
+    deal:"50% off",
+  },
+]
+
+const allContent = [...dealItems];
